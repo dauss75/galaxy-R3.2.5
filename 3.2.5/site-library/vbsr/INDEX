@@ -1,0 +1,5 @@
+compute_KL              Compute an empirical Kullback Leibler (KL)
+                        divergence for an observed distribution of
+                        Z-statistics
+vbsr                    fit a linear model with variational Bayes spike
+                        penalty

@@ -1,0 +1,14 @@
+RSofia-package	RSofia-package
+irismod	irismod
+parse_formula	parse_formula
+predict.sofia	predict.sofia
+read.svmlight	read.svmlight
+RSofia	RSofia-package
+RSofiaFacade	RSofia-internal
+sofia	sofia
+sofia.character	sofia
+sofia.fit	sofia
+sofia.formula	sofia
+sofia_ml_test	RSofia-internal
+sofia_ml_train	RSofia-internal
+write.svmlight	write.svmlight

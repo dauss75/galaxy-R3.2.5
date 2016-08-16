@@ -1,0 +1,8 @@
+RSofia-package          Train and Test Suite of Models from Sofia-ml
+irismod                 A Slight Modification to Edgar Anderson's Iris
+                        Data
+parse_formula           parse a Dataframe for use with '"sofia.fit"'
+predict.sofia           Predict Method for Sofia-ml Model Fits
+read.svmlight           Read Files in SVM-Light Format
+sofia                   Fitting sofia-ml models
+write.svmlight          Write Files in SVM-Light Format
